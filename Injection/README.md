@@ -54,16 +54,15 @@ Contraseña: (cualquier cosa)
 
 ![máquina vulnerable](./images/5.png)
 
-✅ ¡Acceso exitoso!
+ ¡Acceso exitoso!
 
 ## 5. Acceso por SSH
 Observamos que el usuario se llama Dylan. Intentamos conectarnos por SSH:
 
 ![máquina vulnerable](./images/6.png)
+Insertamos la contraseña y accedemos correctamente.
 
-📥 Insertamos la contraseña y accedemos correctamente.
-
-6. Privilegios y escalada
+## 6. Privilegios y escalada
 Intentamos usar sudo, pero no tenemos permisos:
 
 ![máquina vulnerable](./images/7.png)
