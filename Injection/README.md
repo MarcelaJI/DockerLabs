@@ -85,7 +85,7 @@ Entramos a /usr/bin y ejecutamos env con los privilegios adecuados:
 
 📅 Resuelta el 26/05/25
 
-👩Por Marcela Jiménez (aka mar)
+👩Por Marcela Jiménez (aka Mar)
 🐉
 
 
