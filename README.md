@@ -15,7 +15,8 @@ Cada máquina estará organizada en su propia carpeta con todos los pasos, coman
 
 ## 📦 Máquinas resueltas
 
-- [Injection](./Injection) ✅
+- [Injection](./Injection) ✅  
+- [FirstHacking](./FirstHacking) ✅
 
 _(Se irán añadiendo más máquinas conforme avance.)_
 
@@ -23,8 +24,11 @@ _(Se irán añadiendo más máquinas conforme avance.)_
 
 ## ✍️ Autor
 
-👩**Marcela Jiménez (aka Mar)** 🐉
+👩 **Marcela Jiménez** (aka *Mar*)  
+🐉
 
 ---
 
-> Este repositorio es de uso educativo. Todas las máquinas utilizadas son entornos controlados y legales para prácticas de ciberseguridad.
+> 🛡️ Este repositorio es de uso educativo.  
+> Todas las máquinas utilizadas son entornos controlados y legales para prácticas de ciberseguridad.
+
