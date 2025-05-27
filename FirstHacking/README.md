@@ -50,7 +50,7 @@ Lo copiamos al directorio actual con:
 
 ![máquina vulnerable](./images/6.png)
 
-6. Ejecución del exploit
+## 6. Ejecución del exploit
 Ejecutamos el script:
 
 ![máquina vulnerable](./images/7.png)
