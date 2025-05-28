@@ -25,7 +25,7 @@ Hago un escaneo completo para saber que puertos están abiertos:
 
 ---
 
-El puerto 22 está abierto, entonces ahora hago un escaneo al puerto 22 para ver las versiones que corren detrás:
+El puerto 22 está abierto, entonces ahora hago un escaneo al puerto 22 para ver las versiones que corren por detrás:
 
 ![máquina](./images/4.png)
 
