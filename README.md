@@ -25,8 +25,7 @@ _(Se irán añadiendo más máquinas conforme avance.)_
 
 ## ✍️ Autor
 
-👩 **Marcela Jiménez** (aka *Mar*)  
-🐉
+👩 **Marcela Jiménez** (aka *Mar*)🐉
 
 ---
 
