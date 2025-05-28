@@ -6,7 +6,7 @@
 
 ## 1. Despliegue de la máquina
 
-Ejecutamos la máquina vulnerable
+Ejecutamos la máquina vulnerable:
 
 ![máquina vulnerable](./images/1.png)
 
