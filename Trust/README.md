@@ -73,7 +73,7 @@ El siguiente paso es obtener una shell como root ejecutando:
 
 ---
 
-Y ya somos root, máquina resuelta exitosamente.
+Y ya somos root, máquina resuelta exitosamente :)
 
 
 📅 Resuelta el 29/05/25
