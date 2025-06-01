@@ -19,6 +19,7 @@ Cada máquina estará organizada en su propia carpeta con todos los pasos, coman
 - [FirstHacking](./FirstHacking) ✅
 - [BreakMySSH](./BreakMySSH/) ✅
 - [Trust](./Trust/) ✅
+- [Hedgehog](./Hedgehog/) ✅
 
 _(Se irán añadiendo más máquinas conforme avance.)_
 
