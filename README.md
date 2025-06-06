@@ -20,6 +20,7 @@ Cada máquina estará organizada en su propia carpeta con todos los pasos, coman
 - [BreakMySSH](./BreakMySSH/) ✅
 - [Trust](./Trust/) ✅
 - [Hedgehog](./Hedgehog/) ✅
+- [BorazuwarahCTF]
 
 _(Se irán añadiendo más máquinas conforme avance.)_
 
