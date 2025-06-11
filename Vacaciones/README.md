@@ -59,6 +59,12 @@ Y si, nos han dado una pista, ahora vamos a entrar con **su** con el usuario de 
 
 ## 5. Escalada de privilegios
 
+Primero vamos a ver que puede ejecutar **Juan** como root:
+
+![máquina](./images/9.png)
+
+Y ahora que hemos visto que podemos ejecutar ruby, procedemos:
+
 
 
 
