@@ -65,7 +65,16 @@ Primero vamos a ver que puede ejecutar **Juan** como root:
 
 Y ahora que hemos visto que podemos ejecutar ruby, procedemos:
 
+![maáquina](./images/10.png)
 
+Y ya somos root!
+
+Máquina resuelta exitosamente:)
+
+📅 Resuelta el 11/06/25
+
+👩 Por Marcela Jiménez (aka Mar)
+🐉
 
 
 
