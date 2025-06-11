@@ -22,6 +22,7 @@ Cada máquina estará organizada en su propia carpeta con todos los pasos, coman
 - [Hedgehog](./Hedgehog/) ✅
 - [BorazuwarahCTF](./BorazuwarahCTF/) ✅
 - [Vacaciones](./Vacaciones/) ✅
+- [Tproot](./Tproot/) ✅
 
 _(Se irán añadiendo más máquinas conforme avance.)_
 
