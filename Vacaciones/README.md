@@ -1,4 +1,4 @@
-# 🧠 MÁQUINA VACIONES
+# 🧠 MÁQUINA VACACIONES
 
 **Difícultad**: 🟢 Muy fácil
 
