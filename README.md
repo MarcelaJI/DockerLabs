@@ -23,6 +23,7 @@ Cada máquina estará organizada en su propia carpeta con todos los pasos, coman
 - [BorazuwarahCTF](./BorazuwarahCTF/) ✅
 - [Vacaciones](./Vacaciones/) ✅
 - [Tproot](./Tproot/) ✅
+- [Obsession](./Obsession/) ✅
 
 _(Se irán añadiendo más máquinas conforme avance.)_
 
