@@ -16,6 +16,17 @@
 
 ![máquina](./images/2.png)
 
+Explicación detallada de cada parámetro:
+
+- **-p-**: Hace un escaneo de todos los puertos (1-65535).
+- **--open**: Muestra solo puertos abiertos.
+- **-sS**: Nos permite hacer escaneos sigilosos y evitar la detección de firewall. Hace un escaneo de tipo SYN sin establecer conexión completa, y así evitar la detección del firewall.
+- **--min-rate=5000**: Este parámetro nos ayuda a controlar la velocidad de los paquetes enviados y así poder hacer un escaneo más rápido con 5000 paquetes por segundo.
+- **-Pn**: No realiza ping porque ya da por hecho que el host está activo.
+- **-n**: No hace resolución DNS.
+- **-vvv**: Modo verbose, para ir viendo información detallada en tiempo real.
+
+
 Encontramos abiertos los puertos 22 y 80, vamos a escribir en el navegador: **http://172.17.0.2:80** para ver que hay en el puerto 80:
 
 ---
