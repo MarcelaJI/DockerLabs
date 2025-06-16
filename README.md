@@ -24,6 +24,7 @@ Cada máquina estará organizada en su propia carpeta con todos los pasos, coman
 - [Vacaciones](./Vacaciones/) ✅
 - [Tproot](./Tproot/) ✅
 - [Obsession](./Obsession/) ✅
+- [Library](./Library/) ✅
 
 _(Se irán añadiendo más máquinas conforme avance.)_
 
