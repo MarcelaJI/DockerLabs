@@ -50,7 +50,7 @@ We will take a look at the web page that is running on port 80
 
 When reviewing the page, we noticed an error message at the end.
 
-## Fuzzing with ffuf
+## 4. Fuzzing with ffuf
 
 Remember, the page returned an error, which suggests you may be trying to access a resource incorrectly.We can use ffuf to find out which extensions the page is using and then discover the vulnerable parameter(I put index because it is a default name on web pages).
 
@@ -71,4 +71,53 @@ Two users appear here, luisillo and vaxei. With the SSH port active, we'll try t
 Luisillo doesn't have this file, but vaxei does, so we'll use it to try to access it.
 
 
+![machine](./images/10.png)
 
+---
+
+## 5. Intrusion as a vaxei user
+
+
+We copy the contents of the id_rsa file to our machine and adjust the permissions before connecting:
+
+![machine](./images/11.png)
+
+We treat TTY:
+
+![machine](./images/12.png)
+
+---
+
+![machine](./images/13.png)
+
+By running sudo -l, we notice that vaxei has permissions to run perl as luisillo. Using [GTFOBins](https://gtfobins.github.io/gtfobins/awk/#shell) we know how to exploit these binaries.
+
+
+```bash 
+sudo -u luisillo /usr/bin/perl -e 'exec "/bin/sh";'
+```
+
+![machine](./images/14.png)
+
+By running sudo -l, we notice that luisillo has permissions to run python3 as root in /opt/paw.py. Using [GTFOBins](https://gtfobins.github.io/gtfobins/awk/#shell) we know how to exploit these binaries.
+
+
+Analyzing the script, we see that we can perform Library Hijacking by creating a subprocess.py file that executes arbitrary commands when running this script as sudo. 
+
+Any user can write to the /opt directory, which
+allows the paw.py file to be replaced with a malicious script.
+
+We create a new paw.py and give it permissions
+
+We run the script:
+
+![machine](./images/15.png)
+
+We are now root!
+
+---
+
+📅 Resolved on 29/09/2025
+
+By Marcela Jiménez (aka Mar)
+🐉
