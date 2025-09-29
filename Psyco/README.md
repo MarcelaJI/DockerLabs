@@ -1,5 +1,7 @@
 # Psyco Machine 🧠 
 
+Difficulty: 🟢 Easy
+
 🔗 You can download the machine here:
 [https://dockerlabs.es/](https://dockerlabs.es/)
 
