@@ -37,7 +37,7 @@ El puerto 80 y el 22 están abiertos, ahora voy a escanear esos dos puertos para
 
 --- 
 
-## 3. Enumeración de rutas con **FFUZ**
+## 3. Enumeración de rutas con **FFUF**
 Lo primero que haré es ejecutar **ffuf** para que me enumere rutas ocultas que corren detrás de Apache, por ejemplo: php, html:
 
 ![máquina](./images/5.png)
