@@ -1,4 +1,4 @@
-# 🧠 MÁQUINA TRUST
+-------# 🧠 MÁQUINA TRUST
 
 **Dificultad:** 🟢 Muy fácil
 
