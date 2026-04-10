@@ -1,42 +1,69 @@
-# 🐳 DockerLabs
+🐳💻 Laboratorio de Hacking Ético
 
-Repositorio personal donde iré resolviendo máquinas vulnerables utilizando **Docker**.  
-Cada máquina estará organizada en su propia carpeta con todos los pasos, comandos e imágenes necesarios para documentar la resolución.
+Repositorio personal donde documento la resolución de máquinas vulnerables de distintas plataformas de ciberseguridad como DockerLabs, Hack The Box y TryHackMe.
 
----
-
-## 📁 Estructura del repositorio
-
-- Cada directorio representa una máquina distinta.
-- Dentro de cada carpeta encontrarás un archivo `README.md` con la solución paso a paso.
-- Las imágenes utilizadas están dentro de subcarpetas como `/images`.
+Cada máquina incluye un análisis detallado con comandos, metodología y evidencias utilizadas durante el proceso.
 
 ---
 
-## 📦 Máquinas resueltas
+📁 Estructura del repositorio
 
-- [Injection](./Injection) ✅  
-- [FirstHacking](./FirstHacking) ✅
-- [BreakMySSH](./BreakMySSH/) ✅
-- [Trust](./Trust/) ✅
-- [Hedgehog](./Hedgehog/) ✅
-- [BorazuwarahCTF](./BorazuwarahCTF/) ✅
-- [Vacaciones](./Vacaciones/) ✅
-- [Tproot](./Tproot/) ✅
-- [Obsession](./Obsession/) ✅
-- [Library](./Library/) ✅
+El repositorio está organizado por plataformas:
+
+📦 maquinas
+- 📂 dockerlabs
+- 📂 hackthebox
+- 📂 tryhackme
+
+Cada carpeta contiene máquinas de una plataforma específica.
+Cada máquina tiene su propio directorio.
+Dentro encontrarás:
+README.md → resolución paso a paso
+/images → capturas del proceso
+scripts o notas adicionales (si aplica)
+
+---
+
+📦 Máquinas resueltas
+
+🐳 DockerLabs
+
+- [Injection](./Injection) ✅ 
+- [FirstHacking](./FirstHacking) ✅ 
+- [BreakMySSH](./BreakMySSH/) ✅ 
+- [Trust](./Trust/) ✅ 
+- [Hedgehog](./Hedgehog/) ✅ 
+- [BorazuwarahCTF](./BorazuwarahCTF/) ✅ 
+- [Vacaciones](./Vacaciones/) ✅ 
+- [Tproot](./Tproot/) ✅ 
+- [Obsession](./Obsession/) ✅ 
+- [Library](./Library/) ✅ 
 - [Psycho](./Psyco) ✅
 
-_(Se irán añadiendo más máquinas conforme avance.)_
+ ---
+🧠 Hack The Box
+
+[NIBBLES](./nibbles/)
 
 ---
 
-## ✍️ Autora
 
-👩 **Marcela Jiménez** (aka *Mar*)🐉
+🎯 TryHackMe
 
 ---
 
-> 🛡️ Este repositorio es de uso educativo.  
-> Todas las máquinas utilizadas son entornos controlados y legales para prácticas de ciberseguridad.
+⚙️ Objetivo del repositorio
+Documentar el aprendizaje en ciberseguridad ofensiva
+Practicar metodologías de pentesting
+Crear un portfolio técnico
+Reforzar el uso de herramientas y técnicas reales
+✍️ Autora
 
+👩 Marcela Jiménez (aka Mar) 🐉
+
+---
+
+🛡️ Disclaimer
+
+Este repositorio es únicamente para fines educativos.
+Todas las máquinas pertenecen a plataformas legales diseñadas para la práctica de ciberseguridad.
