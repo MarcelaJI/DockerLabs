@@ -39,11 +39,11 @@ scripts o notas adicionales (si aplica)
 - [Obsession](./Obsession/) ✅ 
 - [Library](./Library/) ✅ 
 - [Psycho](./Psyco) ✅
-
+- [ConsoleLog](./consolelog/) ✅
  ---
 🧠 Hack The Box
 
-[NIBBLES](./nibbles/)
+[NIBBLES](./nibbles/) ✅
 
 ---
 
@@ -53,13 +53,15 @@ scripts o notas adicionales (si aplica)
 ---
 
 ⚙️ Objetivo del repositorio
+
 Documentar el aprendizaje en ciberseguridad ofensiva
 Practicar metodologías de pentesting
 Crear un portfolio técnico
 Reforzar el uso de herramientas y técnicas reales
-✍️ Autora
 
-👩 Marcela Jiménez (aka Mar) 🐉
+ Autora
+
+Marcela Jiménez (aka Mar) 🐉
 
 ---
 
